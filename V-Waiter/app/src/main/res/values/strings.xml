@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">V-Waiter</string>
+    <string name="addcontact.message.title">SOLICITAR</string>
+    <string name="login.button.signin">INGRESAR</string>
+    <string name="login.error.message.signin">IMPOSIBLE INGRESAR %s </string>
+    <string name="login.error.message.signup">IMPOSIBLE INGRESO %s </string>
+    <string name="login.notice.message.signup">GRACIAS POR INGRESAR %s </string>
+    <string name="addcontact.message.add">Aceptar</string>
+    <string name="addcontact.message.cancel">Cancelar</string>
+    <string name="contactlist.menu.action.signoff">SALIR</string>
+
+
+    <string name="login.message.email">Correo Electronico</string>
+    <string name="login.button.signup">Crear Cuenta</string>
+    <string name="login.mensaje.password">Password</string>
+    <string name="contactlist.title">Contactos</string>
+    <string name="addcontact.message.contactadded">Contacto agregado exitosamente</string>
+    <string name="addcontact.error.message">Imposible agregar usuario no existente</string>
+
+
+    <string-array name="dropListCubiertos">
+        <item> Ninguno</item>
+        <item> Tenedor</item>
+        <item> Servidora</item>
+        <item> Cuchillo</item>
+    </string-array>
+
+    <string-array name="dropListPostres">
+        <item> Ninguno</item>
+        <item> Pastel Chocolate</item>
+        <item> Pastel Fresa</item>
+        <item> Pastel Mora</item>
+        <item> Helado Fresa</item>
+        <item> Helado Vainilla</item>
+        <item> Helado Chocolate</item>
+        <item> Muffin Vainilla</item>
+        <item> Tarta Tatin de Manzanas</item>
+        <item> Pie Manzana</item>
+        <item> Pie Piña</item>
+    </string-array>
+
+    <string-array name="dropListBebidas">
+        <item> Ninguno</item>
+        <item> Cafe</item>
+        <item> Capuchino</item>
+        <item> Agua</item>
+        <item> Pepsi</item>
+        <item> Seven</item>
+        <item> Coca Cola</item>
+        <item> Jugo de Naranja</item>
+        <item> Jugo de Piña</item>
+        <item> Jugo de Fresa</item>
+        <item> Jugo de Mora</item>
+        <item> Vino</item>
+        <item> Champagne</item>
+        <item> Whisky</item>
+        <item> Tequila</item>
+    </string-array>
+
+    <string-array name="dropListExtras">
+        <item> Ninguno</item>
+        <item> Vaso</item>
+        <item> Plato</item>
+        <item> Taza</item>
+        <item> Copa</item>
+    </string-array>
+
+</resources>
